@@ -1,4 +1,4 @@
-"""
+
 STUDENT MANAGEMENT SYSTEM
 ==========================
 A console-based Student Management System built with Python and SQLite.
@@ -10,9 +10,6 @@ Features:
 - Auto-calculate percentage and grade
 - View all students sorted by percentage
 - Data persisted in a local SQLite database (students.db)
-
-Author: (Your Name)
-"""
 
 import sqlite3
 import os
